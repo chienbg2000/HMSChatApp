@@ -1,0 +1,2 @@
+rootProject.name = "HuaweiChat"
+include ':app'
